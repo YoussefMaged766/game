@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">game</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="play" translatable="true">jouer</string>
+    <string name="mode"> Casse-cou </string>
+
+    <string name="secret_code">Pour ajouter 100$ \n Entrer votre code secret :</string>
+    <string name="bet">Mise</string>
+    <string name="loss">Perte</string>
+    <string name="totalAssets">Nouveau solde: </string>
+    <string name="gain" >Gain</string>
+    <string name="reset">réinitialisation</string>
+    <string name="no_stats">Aucune statistique n’est disponible pour le moment</string>
+    <string name="no_bits">Veuillez choisir l’un des Mise</string>
+    <string name="no_assets">Vous n’avez pas assez d’actifs</string>
+    <string name="win_amount">le montant du gain</string>
+    <string name="assets">Vos actifs:</string>
+</resources>
