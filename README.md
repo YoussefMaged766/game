@@ -14,6 +14,14 @@
   ### Hard mode
   - if two specific image are similar then the points it become the Bet * 10 then added to your total money
   - if the three specific image become similar then the points it become the Bet * 100 then added to your total money
+ 
+  ## Technology Used
+  - Kotlin
+  - Flow
+  - MVVM
+  - Room
+  - Hilt
+  - Navigation Component
     
 | Home | If Two is Similar in Normal Mode | If Three is Similar in Normal Mode |
 | --- | --- | --- | 
@@ -22,3 +30,5 @@
 | Status | Secret Code | If Two is Similar in Hard Mode |
 | --- | --- | --- | 
 | ![Home](images/screen5.png) | ![Two](images/screen6.png) | ![Three](images/screen7.png) | 
+
+
