@@ -7,6 +7,6 @@
 - the app supports two languages English and Frensh
 - there is sercrt code to add 100$ is money have gone
 - there is status page to save all one game
-  ## roles of the game
-
+  ## Roles of the game
+  ### Normal mode
   
