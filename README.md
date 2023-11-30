@@ -18,3 +18,7 @@
 | Home | If Two is Similar in Normal Mode | If Three is Similar in Normal Mode |
 | --- | --- | --- | 
 | ![Home](images/screen1.png) | ![Two](images/screen2.png) | ![Three](images/screen3.png) | 
+
+| Status | Secret Code | If Two is Similar in Hard Mode |
+| --- | --- | --- | 
+| ![Home](images/screen5.png) | ![Two](images/screen6.png) | ![Three](images/screen7.png) | 
