@@ -11,7 +11,7 @@
   ### Normal mode
   - if two images are similar then the points it become the Bet * 1 then added to your total money
   - if the three images become similar then the points it become the Bet * 25 then added to your total money
-### Hard mode
+  ### Hard mode
   - if two specific image are similar then the points it become the Bet * 10 then added to your total money
   - if the three specific image become similar then the points it become the Bet * 100 then added to your total money
     
